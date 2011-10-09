@@ -1,0 +1,23 @@
+Text & indenting
+----------------
+
+There are several reasons to write such a file:
+  1. It doesn't exist.
+  2. It may be useful to people who have to indent a whole lot of text.
+  3. If not you, who?
+
+Input & Output
+
+Input must take the form of a simple text file such as this one.  Output takes the form of another simple text file, but with select newlines removed to prevent the "jagged right margin effect" when placed in a window that wraps text automatically.
+
+Languages
+The program can be written in any language but must accept input and produce output as described above. It is OK to take input from standard input and send output to standard output.  In fact that is how it must be done.
+
+Rules
+How can it be determined whether or not to retain a newline?  Here are some rules:
+
++ A newline adjacent to another newline is retained.
+
+What about "subsection headings", such as 'Rules' above?  How about:
+
++ Any newline following a line less than cutoff length will be retained.

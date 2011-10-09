@@ -1,0 +1,47 @@
+About Drew Endy
+---------------
+
+Expertise:
+  + genetics
+  + computation
+  + education, including research at the undergraduate level
+
+Biography (taken from http://en.wikipedia.org/wiki/Drew_Endy)
+
+Activities:
+With Thomas Knight, Gerald Jay Sussman, and other
+researchers at MIT, Endy is working on synthetic biology and
+the engineering of standardized biological components,
+devices, and parts, collectively known as BioBricks. Endy is
+one of several founders of the Registry of Standard
+Biological Parts, and invented an abstraction hierarchy for
+integrated genetic systems.
+
+Advocacy:
+Endy is also known for his opposition to limited ownership
+and support of free access to genetic information. He has
+been one of the early promoters of open source biology, and
+helped start the Biobricks Foundation, a not-for-profit
+organization that will work to support open-source
+biology. He was also a co-founder of the now defunct Codon
+Devices, a biotechnology startup company that aimed to
+commercialize synthetic biology.
+
+Here are three of his recent publications:
+
+1: Collins JJ, Endy D, Hutchison CA 3rd, Roberts RJ.
+Editorial-synthetic biology.  Nucleic Acids Res. 2010
+May;38(8):2513. PubMed PMID: 20423911; PubMed Central PMCID:
+PMC2860136.
+
+2: Martin L, Che A, Endy D. Gemini, a bifunctional enzymatic
+and fluorescent reporter of gene expression. PLoS One. 2009
+Nov 4;4(11):e7569. PubMed PMID: 19888458; PubMed Central
+PMCID: PMC2766624.
+
+3: Kelly JR, Rubin AJ, Davis JH, Ajo-Franklin CM, Cumbers J,
+Czar MJ, de Mora K, Glieberman AL, Monie DD, Endy D.
+Measuring the activity of BioBrick promoters using an in
+vivo reference standard. J Biol Eng. 2009 Mar 20;3:4. PubMed
+PMID: 19298678; PubMed Central PMCID: PMC2683166.
+

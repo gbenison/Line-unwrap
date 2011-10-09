@@ -1,0 +1,19 @@
+This algorithm attempts to selectively remove newlines (i.e. merge lines)
+in plain text input such that paragraph structure and special formatting
+are retained - only spurious intra-paragraph newline characters are removed.
+
+The motivation for this algorithm is described here:
+http://gcbenison.wordpress.com/2011/07/03/a-program-to-intelligently-remove-carriage-returns-so-you-can-paste-text-without-having-it-look-awful/
+
+Implementations are provided in several languages (one implementation in each
+subdirectory of 'implementations')
+
+Algorithm
+---------
+Merge line "n" with line "n+1" only if:
+
+(line 'n' is not blank)
+AND (line 'n+1' is not blank)
+AND ((line n+1 begins with [A-Za-z])
+     AND (appending the first word of line 'n+1' to line 'n'
+          results in a line longer than line 'n+1'))
